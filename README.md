@@ -293,15 +293,17 @@ Status repository saat ini adalah prototipe penelitian. Struktur folder, dataset
 GPL v3.
 
 ## Citation
+<span style="font-variant: small-caps;">
 
 If you use this work in your research, please cite:
 
-Author: Agateknik
+Author: Pratama, Angga
 
 Title: Development and Evaluation of Multi-layered Guardrails Architecture for Mitigating Security Risks and Hallucinations in Employee Recruitment Service Chatbots Based on Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
 Institution: Universitas Indonesia
 
 Program: Master of Electrical Engineering – Information Network Security Management
+</span>
 
 Year: 2026
