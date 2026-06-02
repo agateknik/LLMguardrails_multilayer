@@ -290,7 +290,7 @@ Status repository saat ini adalah prototipe penelitian. Struktur folder, dataset
 
 ## Lisensi
 
-GPL v3.
+Apache 2.0.
 
 ## Citation
 <span style="font-variant: small-caps;">
