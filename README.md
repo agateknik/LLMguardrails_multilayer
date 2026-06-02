@@ -297,6 +297,7 @@ GPL v3.
 If you use this work in your research, please cite:
 
 Author: Agateknik
+
 Title: Development and Evaluation of Multi-layered Guardrails Architecture for Mitigating Security Risks and Hallucinations in Employee Recruitment Service Chatbots Based on Large Language Models (LLM) and Retrieval Augmented Generation (RAG)
 
 Institution: Universitas Indonesia
